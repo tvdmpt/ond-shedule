@@ -1,0 +1,3 @@
+[functions.availability-notify]
+# Function verifies Telegram initData itself before sending any notification.
+verify_jwt = false
